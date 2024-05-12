@@ -36,7 +36,7 @@ A VR fighting game built by Edu Argumedo
   * Plastic SCM 11.0.16.8204: Plastic is similar to github but it is made specifically for Unity. This intergration allowed ease of use as well as great functionality for version control
     
 - What technologies were new
-  * I knew the basicas of how to use Unity, but there were many new methods and syntax I had to learn to do advanced movements
+  * I knew the basics of how to use Unity, but there were many new methods and syntax I had to learn to do advanced movements
   * The XR Interaction Toolkit, XR Plugin Management, and Plastic SCM were all relatively new to me due to only using it for a semester for the VR lab class and only going over the basics. This project widened my scope of how I can use all of these technologies.
   
 - Technical Approach
