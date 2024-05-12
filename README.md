@@ -52,3 +52,5 @@ A VR fighting game built by Edu Argumedo
 - Issues/Bugs
   * Game is not fully animated
   * Shop doesn't have full functionality yet
+
+- Public Game Download: https://edu-argumedo.itch.io/virtual-valor
